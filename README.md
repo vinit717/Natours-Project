@@ -1,5 +1,5 @@
 # Natours-Project
-pure css based website
+pure Sass based website
 
 Learned from this project:
 
